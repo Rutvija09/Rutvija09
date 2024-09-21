@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst <img src="https://me
 - 💻 Currently, I'm working as a Data Analyst 
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rutvija-bh/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Rutvija-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rutvija-bh/)
 
 ---
 
@@ -26,3 +26,4 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst <img src="https://me
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutvija09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
